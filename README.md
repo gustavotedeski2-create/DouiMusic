@@ -1,2 +1,0 @@
-# DouiMusic
-app de musica :)
